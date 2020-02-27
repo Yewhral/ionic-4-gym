@@ -5,6 +5,7 @@ import { FormsModule } from '@angular/forms';
 import { IonicModule } from '@ionic/angular';
 
 import { TrainingPageRoutingModule } from './training-routing.module';
+import { TrainingContainerComponentModule } from '../training-container/training-container.module';
 
 import { TrainingPage } from './training.page';
 
@@ -13,7 +14,8 @@ import { TrainingPage } from './training.page';
     CommonModule,
     FormsModule,
     IonicModule,
-    TrainingPageRoutingModule
+    TrainingPageRoutingModule,
+    TrainingContainerComponentModule
   ],
   declarations: [TrainingPage]
 })
