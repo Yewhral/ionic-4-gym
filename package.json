@@ -1,7 +1,7 @@
 {
   "name": "ionic-4-gym",
   "version": "0.0.1",
-  "author": "Ionic Framework",
+  "author": "Michał Zabrzyjewski",
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
